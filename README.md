@@ -44,7 +44,7 @@ exit
 ```
 sudo su
 cd /usr/share/sane/epjitsu/
-wget https://github.com/ckunte/scansnap-firmware/raw/master/1300i_0D12.nal
+wget https://github.com/stevleibelt/scansnap-firmware/blob/master/1300i_0D12.nal
 exit
 ```
 
