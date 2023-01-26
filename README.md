@@ -1,8 +1,12 @@
 # Scansnap firmware
 
+Please use [this](https://github.com/stevleibelt/general_vendor_products/tree/master/fujitsu/scansnap_s1300i) page for latest and up-to-date information.
+
+## Old and outdated readme
+
 The following is a quick and dirty way to get my Scansnap S1300 working on [Ubuntu][u], [Xubuntu][x], or [Elementary OS][e]. (This could possibly work on other Debian based linux too.)
 
-# Installation on Debian
+### Installation on Debian
 
 1. Download firmware:
 
@@ -22,7 +26,7 @@ The following is a quick and dirty way to get my Scansnap S1300 working on [Ubun
 [e]: http://elementary.io/ "elementary OS"
 [ss]: https://launchpad.net/simple-scan "Simple Scanning Utility."
 
-# Installation on Arch Linux
+### Installation on Arch Linux
 
 1. Prepare System
 
